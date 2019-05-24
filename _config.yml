@@ -1,9 +1,8 @@
 # Menu
 menu:
-  Home: /
-  Archives: /archives
-  Gallery: /gallery
-  About: /about
+  主页: /
+  归档: /archives
+  关于: /about
 rss: /atom.xml
 
 
@@ -19,13 +18,13 @@ ocean:
   brand: /images/hexo-inverted.svg
 
 # Content
-excerpt_link: Read More...
-share_text: Share
+excerpt_link: 阅读全文...
+share_text: 分享
 nav_text:
-  page_prev: Prev page
-  page_next: Next page
-  post_prev: Newer posts
-  post_next: Olde posts
+  page_prev: 上一页
+  page_next: 下一页
+  post_prev: 前一篇
+  post_next: 后一篇
 
 # fancybox
 fancybox: true
@@ -42,7 +41,7 @@ feed:
   order_by: -date
 
 # Local search
-search_text: Search
+search_text: 搜索
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
   enable: true
